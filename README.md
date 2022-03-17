@@ -4,4 +4,4 @@
 
 -The project_report.pdf file contains the description of the project.
 
--The code.ipynb files contains the code for the project.
+-The code.ipynb file contains the code for the project.
